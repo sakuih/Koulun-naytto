@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Music.cs">
+    <Files>
+      <File FileName="..\space shooter 2019\Assets\Scripts\PlayerController.cs" Line="29" Column="4" />
+      <File FileName="Assets\Scripts\GustavController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemyController.cs" Line="82" Column="39" />
+      <File FileName="Assets\Music.cs" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
